@@ -14,7 +14,7 @@ pathspec==0.8.0
 pluggy==0.13.1
 # Editable Git install with no remote (project==1.0)
 -e c:\users\steph\onedrive\documents\apps\python_template\src
-py==1.9.0
+py==1.10.0
 pylint==2.5.3
 pyparsing==2.4.7
 pytest==5.4.3
